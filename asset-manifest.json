@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/InfoProjectTest/static/css/main.e6c13ad2.css",
+    "main.js": "/InfoProjectTest/static/js/main.b58849d5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/InfoProjectTest/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/paginationBtn.svg": "/InfoProjectTest/static/media/paginationBtn.74c6c03bbd9bf5f9432a02073b007415.svg",
+    "static/media/paginationIcon.svg": "/InfoProjectTest/static/media/paginationIcon.64b7891610737debb7ea927b0fd9f6b5.svg",
+    "static/media/persInfoIcon.svg": "/InfoProjectTest/static/media/persInfoIcon.6c7c718a24f5e9363c0cbae102da09f0.svg",
+    "static/media/activeIcon.svg": "/InfoProjectTest/static/media/activeIcon.8dbf5c68649cf825fe206bed581f57f9.svg",
+    "index.html": "/InfoProjectTest/index.html",
+    "static/media/search.svg": "/InfoProjectTest/static/media/search.d545514ab14a352cce38471a7dcaa4c1.svg",
+    "static/media/basket.svg": "/InfoProjectTest/static/media/basket.9b9c609b34beca82a49b740ea63234d2.svg",
+    "static/media/bell.svg": "/InfoProjectTest/static/media/bell.8e234a11233a7bd6740f6d62bff21d81.svg",
+    "static/media/menu.svg": "/InfoProjectTest/static/media/menu.37e408a74aec1175a149cccecb25ab40.svg",
+    "main.e6c13ad2.css.map": "/InfoProjectTest/static/css/main.e6c13ad2.css.map",
+    "main.b58849d5.js.map": "/InfoProjectTest/static/js/main.b58849d5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/InfoProjectTest/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b58849d5.js"
+  ]
+}
